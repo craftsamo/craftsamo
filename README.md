@@ -22,7 +22,7 @@ understanding is important in any aspect**
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.5%20thousand%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@ understanding is important in any aspect**
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 973 Contributions in the Year 2025
+> 🏆 975 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,10 +41,10 @@ understanding is important in any aspect**
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                384 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-🌆 Daytime                503 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-🌃 Evening                738 commits         ███████████░░░░░░░░░░░░░░   42.61 % 
-🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+🌞 Morning                384 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌆 Daytime                503 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌃 Evening                740 commits         ███████████░░░░░░░░░░░░░░   42.68 % 
+🌙 Night                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 
@@ -54,21 +54,21 @@ understanding is important in any aspect**
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               29 hrs 31 mins      █████████████████████░░░░   85.76 % 
-Markdown                 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               32 hrs 53 mins      ███████████████████████░░   91.95 % 
+Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-discordbot-tools         33 hrs 57 mins      █████████████████████████   98.65 % 
-portfolio                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-config                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-turborepo-starter        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+discordbot-tools         35 hrs 37 mins      █████████████████████████   99.63 % 
+config                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+turborepo-starter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 14/09/2025 12:08:36 UTC
+ Last Updated on 15/09/2025 12:10:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
