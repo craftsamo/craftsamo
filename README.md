@@ -22,13 +22,15 @@ understanding is important in any aspect**
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2054%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-578.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 991 Contributions in the Year 2025
+> 🏆 993 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,8 +38,38 @@ understanding is important in any aspect**
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/09/2025 12:10:18 UTC
+```text
+🌞 Morning                384 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+🌆 Daytime                524 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌃 Evening                781 commits         ███████████░░░░░░░░░░░░░░   43.49 % 
+🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 15 hrs 2 mins       █████████████░░░░░░░░░░░░   52.23 % 
+TypeScript               11 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   40.00 % 
+JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Lua                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+🐱‍💻 Projects: 
+config                   17 hrs 11 mins      ███████████████░░░░░░░░░░   59.73 % 
+discordbot-tools         11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.08 % 
+discordbot               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
+
+
+ Last Updated on 24/09/2025 12:10:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
