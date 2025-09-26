@@ -24,13 +24,13 @@ understanding is important in any aspect**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2013%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-578.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-578.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 995 Contributions in the Year 2025
+> 🏆 998 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,10 +41,10 @@ understanding is important in any aspect**
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                384 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-🌆 Daytime                528 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-🌃 Evening                785 commits         ███████████░░░░░░░░░░░░░░   43.51 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+🌞 Morning                381 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌆 Daytime                545 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+🌃 Evening                787 commits         ███████████░░░░░░░░░░░░░░   43.24 % 
+🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -54,22 +54,22 @@ understanding is important in any aspect**
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 15 hrs 2 mins       █████████████░░░░░░░░░░░░   53.99 % 
-TypeScript               10 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   37.98 % 
-JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Lua                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               10 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.82 % 
+Markdown                 10 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Lua                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-config                   17 hrs 11 mins      ███████████████░░░░░░░░░░   61.74 % 
-discordbot-tools         10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
-discordbot               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+config                   11 hrs 56 mins      █████████████░░░░░░░░░░░░   53.96 % 
+discordbot-tools         9 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
+discordbot               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 25/09/2025 12:10:35 UTC
+ Last Updated on 26/09/2025 12:10:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
