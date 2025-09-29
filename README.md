@@ -22,13 +22,15 @@ understanding is important in any aspect**
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2050%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-578.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,002 Contributions in the Year 2025
+> 🏆 1,004 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,8 +38,36 @@ understanding is important in any aspect**
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 28/09/2025 12:08:38 UTC
+```text
+🌞 Morning                381 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+🌆 Daytime                545 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+🌃 Evening                793 commits         ███████████░░░░░░░░░░░░░░   43.43 % 
+🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               17 hrs 28 mins      ███████████████████████░░   90.99 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+
+🐱‍💻 Projects: 
+discordbot-tools         13 hrs 13 mins      █████████████████░░░░░░░░   68.87 % 
+turborepo-starter        5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+config                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+```
+
+
+ Last Updated on 29/09/2025 12:10:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
