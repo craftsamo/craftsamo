@@ -22,15 +22,15 @@ understanding is important in any aspect**
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-606.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-606.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,006 Contributions in the Year 2025
+> 🏆 1,008 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,8 +38,36 @@ understanding is important in any aspect**
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 30/09/2025 12:10:49 UTC
+```text
+🌞 Morning                423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+🌆 Daytime                580 commits         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌃 Evening                838 commits         ███████████░░░░░░░░░░░░░░   42.95 % 
+🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               20 hrs 8 mins       █████████████████████░░░░   84.54 % 
+CSS                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+
+🐱‍💻 Projects: 
+turborepo-starter        16 hrs 10 mins      █████████████████░░░░░░░░   67.91 % 
+discordbot-tools         7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+config                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
+
+
+ Last Updated on 01/10/2025 12:10:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
