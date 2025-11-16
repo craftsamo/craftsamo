@@ -73,7 +73,7 @@ Unknown Project          5 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 15 December 2024 - To: 14 November 2025
+From: 15 December 2024 - To: 15 November 2025
 
 Total Time: 1,261 hrs 15 mins
 
