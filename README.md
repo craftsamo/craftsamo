@@ -30,7 +30,7 @@ understanding is important in any aspect**
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,185 Contributions in the Year 2025
+> 🏆 1,187 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,9 +41,9 @@ understanding is important in any aspect**
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-🌆 Daytime                1499 commits        █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                1946 commits        ████████████░░░░░░░░░░░░░   46.05 % 
+🌞 Morning                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌆 Daytime                1499 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌃 Evening                1948 commits        ████████████░░░░░░░░░░░░░   46.07 % 
 🌙 Night                  276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
@@ -54,21 +54,21 @@ understanding is important in any aspect**
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               16 hrs 10 mins      ███████████████████░░░░░░   74.51 % 
-Markdown                 4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               15 hrs 2 mins       ███████████████████░░░░░░   77.83 % 
+Markdown                 3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-dashboard                21 hrs 16 mins      ████████████████████████░   98.00 % 
-config                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-main-app                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+dashboard                19 hrs 12 mins      █████████████████████████   99.39 % 
+main-app                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 
- Last Updated on 23/11/2025 12:09:51 UTC
+ Last Updated on 24/11/2025 12:11:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
