@@ -30,7 +30,7 @@ understanding is important in any aspect**
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,191 Contributions in the Year 2025
+> 🏆 1,193 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,9 +41,9 @@ understanding is important in any aspect**
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-🌆 Daytime                1278 commits        ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌃 Evening                1840 commits        ████████████░░░░░░░░░░░░░   48.32 % 
+🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌆 Daytime                1278 commits        ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌃 Evening                1842 commits        ████████████░░░░░░░░░░░░░   48.35 % 
 🌙 Night                  221 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
@@ -54,19 +54,17 @@ understanding is important in any aspect**
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 27 mins       ██████████████████░░░░░░░   71.73 % 
-Markdown                 1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TypeScript               4 hrs 3 mins        █████████████████░░░░░░░░   67.10 % 
+Markdown                 1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-dashboard                7 hrs 34 mins       █████████████████████████   99.59 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+dashboard                6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/11/2025 12:11:34 UTC
+ Last Updated on 27/11/2025 12:11:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
