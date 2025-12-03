@@ -22,7 +22,7 @@ understanding is important in any aspect**
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C287%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-734.4%20thousand%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@ understanding is important in any aspect**
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,203 Contributions in the Year 2025
+> 🏆 1,205 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,10 +41,10 @@ understanding is important in any aspect**
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌆 Daytime                1278 commits        ████████░░░░░░░░░░░░░░░░░   33.46 % 
-🌃 Evening                1852 commits        ████████████░░░░░░░░░░░░░   48.48 % 
-🌙 Night                  221 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+🌆 Daytime                1278 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌃 Evening                1854 commits        ████████████░░░░░░░░░░░░░   48.51 % 
+🌙 Night                  221 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 
@@ -54,14 +54,15 @@ understanding is important in any aspect**
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 35 mins       █████████████████████████   100.00 % 
+TypeScript               5 hrs 43 mins       █████████████████████████   99.74 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-dashboard                4 hrs 35 mins       █████████████████████████   100.00 % 
+dashboard                5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/12/2025 12:11:39 UTC
+ Last Updated on 03/12/2025 12:11:32 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
