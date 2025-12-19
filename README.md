@@ -8,32 +8,26 @@
 </div>
 
 <!-- Title -->
-<h1 align="center">CRAFT SAMO</h1>
+<h3 align="center">CRAFT SAMO</h3>
 
 <!-- Description -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=999999&repeat=false&center=true&vCenter=true&cursor=false&width=420&height=38&lines=System+Engineer&color=28A7FF"
-    alt="System Engineer"
-  />
-  <br/>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=999999&repeat=false&center=true&vCenter=true&cursor=false&width=520&height=32&lines=TypeScript+Web+Developer&color=28A7FF"
-    alt="TypeScript Web Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&repeat=true&center=true&vCenter=true&cursor=false&width=600&height=40&lines=Full-stack+web+and+app+developer;TypeScript-first+product+builder;Next.js+%2F+React+interface+crafter;API+design+%26+backend+engineering;Shipping+fast%2C+scaling+safely&color=28A7FF"
+    alt="Typing intro"
   />
 </div>
 
-<!-- My projects -->
-<details open>
-  <summary><h2>📘 My Projects</h2></summary>
+---
 
-  <p align="left">
-    <a href="https://github.com/craftsamo/turborepo-starter">
-      <img
-        width="320"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF"
-        alt="turborepo-starter"
-      />
-    </a>
-  </p>
-</details>
+### 📚 My Projects
+
+<p align="left">
+  <a href="https://github.com/craftsamo/turborepo-starter">
+    <img
+      width="320"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF"
+      alt="turborepo-starter"
+    />
+  </a>
+</p>
