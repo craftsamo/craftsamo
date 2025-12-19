@@ -22,3 +22,18 @@
     alt="TypeScript Web Developer"
   />
 </div>
+
+<!-- My projects -->
+<details open>
+  <summary><h2>📘 My Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/craftsamo/turborepo-starter">
+      <img
+        width="320"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF"
+        alt="turborepo-starter"
+      />
+    </a>
+  </p>
+</details>
