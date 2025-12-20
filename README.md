@@ -97,43 +97,43 @@
   <summary><h4>🧰 Frameworks and Libraries</h4></summary>
 
   <p>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anextjs">
+    <a href="https://nextjs.org/">
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Areact">
+    <a href="https://react.dev/">
       <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Ashadcn">
+    <a href="https://ui.shadcn.com/">
       <img alt="shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?logo=shadcnui&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aelectron">
+    <a href="https://www.electronjs.org/">
       <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anestjs">
+    <a href="https://nestjs.com/">
       <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Adiscordjs">
+    <a href="https://discord.js.org/">
       <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-5865F2.svg?logo=discord&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anecord">
+    <a href="https://github.com/necordjs/necord">
       <img alt="Necord" src="https://img.shields.io/badge/Necord-5865F2.svg?logo=discord&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Agithub-actions">
+    <a href="https://github.com/features/actions">
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aexpress">
+    <a href="https://expressjs.com/">
       <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Atailwindcss">
+    <a href="https://tailwindcss.com/">
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Awagmi">
+    <a href="https://wagmi.sh/">
       <img alt="wagmi" src="https://img.shields.io/badge/wagmi-000000.svg?logo=wagmi&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aethers">
+    <a href="https://docs.ethers.org/">
       <img alt="ethers" src="https://img.shields.io/badge/ethers-3C3C3D.svg?logo=ethereum&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aredux">
+    <a href="https://redux.js.org/">
       <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white&style=flat">
     </a>
   </p>
