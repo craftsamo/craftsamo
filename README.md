@@ -31,3 +31,48 @@
     />
   </a>
 </p>
+
+### ⚒️ My Favorite Tools
+
+<details open>
+  <summary><h4>👨‍💻 Programming and Markup Languages</h4></summary>
+
+  <p>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3ABash">
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3AHTML">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3ACSS">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3ASCSS">
+      <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699.svg?logo=sass&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3APHP">
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3AJavaScript">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3ATypeScript">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3A%22Google+Apps+Script%22">
+      <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-34A853.svg?logo=google&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3APython">
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3ASVG">
+      <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3A%22Visual+Basic+for+Applications%22">
+      <img alt="Visual Basic for Applications" src="https://img.shields.io/badge/Visual%20Basic%20for%20Applications-217346.svg?logo=microsoftexcel&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+language%3ALua">
+      <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white&style=flat">
+    </a>
+  </p>
+</details>
