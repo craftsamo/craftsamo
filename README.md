@@ -81,13 +81,13 @@
   <summary><h4>🧩 Runtime</h4></summary>
 
   <p>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anodejs">
+    <a href="https://nodejs.org/">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Adeno">
+    <a href="https://deno.com/">
       <img alt="Deno" src="https://img.shields.io/badge/Deno-000000.svg?logo=deno&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Abun">
+    <a href="https://bun.sh/">
       <img alt="Bun" src="https://img.shields.io/badge/Bun-14151A.svg?logo=bun&logoColor=white&style=flat">
     </a>
   </p>
@@ -143,28 +143,28 @@
   <summary><h4>🗄️ Databases and Cloud Hosting</h4></summary>
 
   <p>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Amongodb">
+    <a href="https://www.mongodb.com/">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Afirestore">
+    <a href="https://firebase.google.com/docs/firestore">
       <img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFCA28.svg?logo=firebase&logoColor=black&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Asqlite">
+    <a href="https://www.sqlite.org/">
       <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Amysql">
+    <a href="https://www.mysql.com/">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Agcp">
+    <a href="https://cloud.google.com/">
       <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Agithub-pages">
+    <a href="https://pages.github.com/">
       <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=githubpages&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aheroku">
+    <a href="https://www.heroku.com/">
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Avercel">
+    <a href="https://vercel.com/">
       <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=flat">
     </a>
   </p>
