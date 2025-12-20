@@ -167,10 +167,82 @@
     <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Avercel">
       <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anotion">
+  </p>
+</details>
+
+<details>
+  <summary><h4>📝 Editor</h4></summary>
+
+  <p>
+    <a href="https://github.com/neovim/neovim">
+      <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/microsoft/vscode">
+      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white&style=flat">
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><h4>🌐 Browser</h4></summary>
+
+  <p>
+    <a href="https://brave.com/">
+      <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B.svg?logo=brave&logoColor=white&style=flat">
+    </a>
+    <a href="https://www.apple.com/safari/">
+      <img alt="Safari" src="https://img.shields.io/badge/Safari-A2AAAD.svg?logo=safari&logoColor=white&style=flat">
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><h4>🧰 Tools</h4></summary>
+
+  <p>
+    <a href="https://git-scm.com/">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=flat">
+    </a>
+    <a href="https://discord.com/">
+      <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=flat">
+    </a>
+    <a href="https://www.postman.com/">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=flat">
+    </a>
+    <a href="https://jupyter.org/">
+      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/sst/opencode">
+      <img alt="opencode" src="https://img.shields.io/badge/opencode-000000.svg?logo=openai&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/features/copilot">
+      <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?logo=githubcopilot&logoColor=white&style=flat">
+    </a>
+    <a href="https://www.google.com/sheets/about/">
+      <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=googlesheets&logoColor=white&style=flat">
+    </a>
+    <a href="https://brew.sh/">
+      <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040.svg?logo=homebrew&logoColor=black&style=flat">
+    </a>
+    <a href="https://www.npmjs.com/">
+      <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white&style=flat">
+    </a>
+    <a href="https://yarnpkg.com/">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white&style=flat">
+    </a>
+    <a href="https://pnpm.io/">
+      <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white&style=flat">
+    </a>
+    <a href="https://www.docker.com/">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=flat">
+    </a>
+    <a href="https://pip.pypa.io/">
+      <img alt="pip" src="https://img.shields.io/badge/pip-3776AB.svg?logo=python&logoColor=white&style=flat">
+    </a>
+    <a href="https://www.notion.so/">
       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aobsidian">
+    <a href="https://obsidian.md/">
       <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white&style=flat">
     </a>
   </p>
