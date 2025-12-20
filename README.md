@@ -18,6 +18,19 @@
   />
 </div>
 
+<!-- Social Link -->
+<div align="center">
+  <p>
+    <a href="https://x.com/CraftSamo">
+      <img alt="X" height="18" src="https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white&style=flat">
+    </a>
+    <img alt="Discord" height="18" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=flat">
+    <img alt="Website" height="18" src="https://img.shields.io/badge/Website-28A7FF.svg?logo=googlechrome&logoColor=white&style=flat">
+    <img alt="Qiita" height="18" src="https://img.shields.io/badge/Qiita-55C500.svg?logo=qiita&logoColor=white&style=flat">
+    <img alt="Zenn" height="18" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?logo=zenn&logoColor=white&style=flat">
+  </p>
+</div>
+
 ---
 
 ### 📚 My Projects
