@@ -138,3 +138,40 @@
     </a>
   </p>
 </details>
+
+<details>
+  <summary><h4>🗄️ Databases and Cloud Hosting</h4></summary>
+
+  <p>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Amongodb">
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Afirestore">
+      <img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFCA28.svg?logo=firebase&logoColor=black&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Asqlite">
+      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Amysql">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Agcp">
+      <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Agithub-pages">
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=githubpages&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aheroku">
+      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Avercel">
+      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anotion">
+      <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Aobsidian">
+      <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white&style=flat">
+    </a>
+  </p>
+</details>
