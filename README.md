@@ -76,3 +76,19 @@
     </a>
   </p>
 </details>
+
+<details>
+  <summary><h4>🧩 Runtime</h4></summary>
+
+  <p>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Anodejs">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Adeno">
+      <img alt="Deno" src="https://img.shields.io/badge/Deno-000000.svg?logo=deno&logoColor=white&style=flat">
+    </a>
+    <a href="https://github.com/search?q=user%3Acraftsamo+topic%3Abun">
+      <img alt="Bun" src="https://img.shields.io/badge/Bun-14151A.svg?logo=bun&logoColor=white&style=flat">
+    </a>
+  </p>
+</details>
