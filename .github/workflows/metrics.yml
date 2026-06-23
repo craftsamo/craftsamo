@@ -47,6 +47,10 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           extras_css: |
+            .column.largeable {
+              display: flex !important;
+              width: 100% !important;
+            }
             svg.bar {
               transform: scaleX(2);
               transform-origin: center;
