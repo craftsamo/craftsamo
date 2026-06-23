@@ -65,3 +65,16 @@
 <p align="center">
   <img src="./images/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
+
+---
+
+<!-- Activity Graph -->
+### 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&bg_color=050B1A&color=28A7FF&line=7FE7FF&point=F2F7FF&area=true&hide_border=true&theme=react-dark&custom_title=Yearly%20Contribution%20Rhythm"
+    alt="Activity Graph"
+    width="100%"
+  />
+</p>
