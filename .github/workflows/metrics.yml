@@ -46,6 +46,11 @@ jobs:
           config_display: large
           plugin_followup: yes
           plugin_followup_sections: user
+          extras_css: |
+            svg.bar {
+              transform: scaleX(2);
+              transform-origin: left center;
+            }
           output_action: commit
           committer_message: "chore: update metrics (followup)"
 
