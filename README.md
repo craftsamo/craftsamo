@@ -66,25 +66,21 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./images/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/github-contribution-grid-snake.svg">
+    <img src="./images/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  </picture>
 </p>
 
 ---
 
-<!-- Languages -->
-### 🈷️ Languages
+<!-- Languages & Follow-up -->
+### 📈 Languages & Follow-up
 
 <p align="center">
-  <img src="./images/metrics-languages.svg" alt="Languages" width="480" />
-</p>
-
----
-
-<!-- Follow-up -->
-### 🎟️ Follow-up
-
-<p align="center">
-  <img src="./images/metrics-followup.svg" alt="Follow-up" width="480" />
+  <img src="./images/metrics-languages.svg" alt="Languages" width="48%" />
+  <img src="./images/metrics-followup.svg" alt="Follow-up" width="48%" />
 </p>
 
 ---
