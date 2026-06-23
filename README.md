@@ -93,6 +93,15 @@
 
 ---
 
+<!-- Achievements -->
+### 🏆 Achievements
+
+<p align="center">
+  <img src="./images/metrics-achievements.svg" alt="Achievements" width="100%" />
+</p>
+
+---
+
 <!-- Activity Graph -->
 ### 📊 GitHub Activity
 
