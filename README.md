@@ -52,13 +52,13 @@
 
 <p align="center">
   <a href="https://github.com/craftsamo/dotconfig">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=dotconfig&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="dotconfig" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=dotconfig&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="dotconfig" />
   </a>
   <a href="https://github.com/craftsamo/turborepo-starter">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="turborepo-starter" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="turborepo-starter" />
   </a>
   <a href="https://github.com/craftsamo/turborepo-starter-with-cloudrun">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter-with-cloudrun&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="turborepo-starter-with-cloudrun" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter-with-cloudrun&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="turborepo-starter-with-cloudrun" />
   </a>
 </p>
 
@@ -75,12 +75,20 @@
 
 ---
 
-<!-- Languages & Follow-up -->
-### 📈 Languages & Follow-up
+<!-- Languages -->
+### 🈷️ Languages
 
 <p align="center">
-  <img src="./images/metrics-languages.svg" alt="Languages" width="48%" />
-  <img src="./images/metrics-followup.svg" alt="Follow-up" width="48%" />
+  <img src="./images/metrics-languages.svg" alt="Languages" width="100%" />
+</p>
+
+---
+
+<!-- Follow-up -->
+### 🎟️ Follow-up
+
+<p align="center">
+  <img src="./images/metrics-followup.svg" alt="Follow-up" width="100%" />
 </p>
 
 ---
