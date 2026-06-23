@@ -48,3 +48,17 @@ jobs:
           plugin_followup_sections: user
           output_action: commit
           committer_message: "chore: update metrics (followup)"
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: craftsamo
+          template: classic
+          filename: images/metrics-achievements.svg
+          base: ""
+          config_display: large
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          output_action: commit
+          committer_message: "chore: update metrics (achievements)"
