@@ -47,16 +47,11 @@
 
 ---
 
-### 📚 My Projects
+<!-- Pinned Repositories -->
+### 📌 Pinned Repositories
 
-<p align="left">
-  <a href="https://github.com/craftsamo/turborepo-starter">
-    <img
-      width="320"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF"
-      alt="turborepo-starter"
-    />
-  </a>
+<p align="center">
+  <img src="./images/metrics-pinned.svg" alt="Pinned Repositories" width="100%" />
 </p>
 
 <!-- Contribution Snake -->
@@ -64,6 +59,24 @@
 
 <p align="center">
   <img src="./images/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+---
+
+<!-- Languages -->
+### 🈷️ Languages
+
+<p align="center">
+  <img src="./images/metrics-languages.svg" alt="Languages" width="100%" />
+</p>
+
+---
+
+<!-- Follow-up -->
+### 🎟️ Follow-up
+
+<p align="center">
+  <img src="./images/metrics-followup.svg" alt="Follow-up" width="100%" />
 </p>
 
 ---
