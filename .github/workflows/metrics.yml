@@ -27,6 +27,7 @@ jobs:
           template: classic
           filename: images/metrics-languages.svg
           base: ""
+          config_display: large
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
@@ -42,6 +43,7 @@ jobs:
           template: classic
           filename: images/metrics-followup.svg
           base: ""
+          config_display: large
           plugin_followup: yes
           plugin_followup_sections: user
           output_action: commit
