@@ -76,7 +76,7 @@
 ---
 
 <!-- Languages -->
-### 🈷️ Languages
+### 💻 Languages
 
 <p align="center">
   <img src="./images/metrics-languages.svg" alt="Languages" width="100%" />
