@@ -23,7 +23,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          username: craftsamo
+          user: craftsamo
           template: classic
           filename: images/metrics-languages.svg
           base: ""
@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          username: craftsamo
+          user: craftsamo
           template: classic
           filename: images/metrics-followup.svg
           base: ""
@@ -50,10 +50,10 @@ jobs:
           committer_message: "chore: update metrics (followup)"
 
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: dkhokhlov/metrics@master
         with:
           token: ${{ secrets.GH_TOKEN }}
-          username: craftsamo
+          user: craftsamo
           template: classic
           filename: images/metrics-achievements.svg
           base: ""
