@@ -1,0 +1,61 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pinned repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: craftsamo
+          template: classic
+          filename: images/metrics-pinned.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+          output_action: commit
+          committer_message: "chore: update metrics (pinned)"
+
+      - name: Languages activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: craftsamo
+          template: classic
+          filename: images/metrics-languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-languages
+          output_action: commit
+          committer_message: "chore: update metrics (languages)"
+
+      - name: Follow-up (user)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: craftsamo
+          template: classic
+          filename: images/metrics-followup.svg
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          output_action: commit
+          committer_message: "chore: update metrics (followup)"
