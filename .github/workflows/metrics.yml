@@ -51,10 +51,28 @@ jobs:
               display: flex !important;
               width: 100% !important;
             }
-            svg.bar {
-              transform: scaleX(2);
-              transform-origin: center;
+            .column.largeable > .row {
+              gap: 24px;
+              justify-content: center;
+              width: 100% !important;
             }
+            .column.largeable > .row > section {
+              flex: 0 1 420px;
+              min-width: 0;
+            }
+            svg.bar {
+              display: block;
+              height: 8px !important;
+              margin: 4px 0 10px !important;
+              max-width: 100%;
+              transform: none !important;
+              width: 420px !important;
+            }
+          extras_js: |
+            document.querySelectorAll("svg.bar").forEach((bar) => {
+              bar.setAttribute("viewBox", "0 0 220 8")
+              bar.setAttribute("preserveAspectRatio", "none")
+            })
           output_action: commit
           committer_message: "chore: update metrics (followup)"
 
