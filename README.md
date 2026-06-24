@@ -52,13 +52,13 @@
 
 <p align="center">
   <a href="https://github.com/craftsamo/dotconfig">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=dotconfig&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="dotconfig" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=dotconfig&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF&cache_seconds=86400&v=20260624" alt="dotconfig" />
   </a>
   <a href="https://github.com/craftsamo/turborepo-starter">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="turborepo-starter" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF&cache_seconds=86400&v=20260624" alt="turborepo-starter" />
   </a>
   <a href="https://github.com/craftsamo/turborepo-starter-with-cloudrun">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter-with-cloudrun&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF" alt="turborepo-starter-with-cloudrun" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=craftsamo&repo=turborepo-starter-with-cloudrun&hide_border=true&bg_color=050B1A&title_color=7FE7FF&text_color=F2F7FF&icon_color=28A7FF&cache_seconds=86400&v=20260624" alt="turborepo-starter-with-cloudrun" />
   </a>
 </p>
 
