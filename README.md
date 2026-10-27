@@ -48,6 +48,7 @@
 ---
 
 <!-- Contribution Snake -->
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -60,40 +61,10 @@
 
 ---
 
-<!-- Languages -->
-### 💻 Languages
-
-<p align="center">
-  <img src="./images/metrics-languages.svg" alt="Languages" width="100%" />
-</p>
-
----
-
-<!-- Follow-up -->
-### 🎟️ Follow-up
-
-<p align="center">
-  <img src="./images/metrics-followup.svg" alt="Follow-up" width="100%" />
-</p>
-
----
-
 <!-- Achievements -->
+
 ### 🏆 Achievements
 
 <p align="center">
   <img src="./images/metrics-achievements.svg" alt="Achievements" width="100%" />
-</p>
-
----
-
-<!-- Activity Graph -->
-### 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=craftsamo&bg_color=050B1A&color=28A7FF&line=7FE7FF&point=F2F7FF&area=true&hide_border=true&theme=react-dark&custom_title=Yearly%20Contribution%20Rhythm"
-    alt="Activity Graph"
-    width="100%"
-  />
 </p>
